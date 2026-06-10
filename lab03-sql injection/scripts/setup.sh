@@ -3,7 +3,7 @@
 #
 # Creates a Python virtual environment, installs Flask, and seeds the database.
 # Run once before the session.
-apt install python3.10-venv
+sudo apt-get install python3.10-venv
 
 set -e
 
